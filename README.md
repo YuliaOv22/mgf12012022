@@ -3,8 +3,8 @@
 Стек:
 
 + ML: numpy, pandas, sklearn, dask
-+ TRAIN DATA: `data_train.csv`. `features.csv.zip`.
-+ TEST DATA: `data_test.csv`.
++ TRAIN DATA: `data_train.csv`, `features.csv.zip`
++ TEST DATA: `data_test.csv`
 
 Задача: построить алгоритм, который для каждой пары пользователь-услуга определит вероятность подключения услуги. Бинарная классификация.
 
